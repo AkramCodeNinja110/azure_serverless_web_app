@@ -1,12 +1,12 @@
 # azure_serverless_web_app 
------>𝘾𝙤𝙣𝙩𝙤𝙪𝙧 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚<-----
-------𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣------
-𝗦𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻
-Week 1: Setup and Initial Development
-Day 1-2: Project Planning and Initial Setup
-•	Tasks:
-o	Define project requirements and architecture.
-o	Set up an Azure account and familiarize with serverless services like Azure Functions and Logic Apps.
+# ----->𝘾𝙤𝙣𝙩𝙤𝙪𝙧 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚<-----
+# ------𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣------
+# 𝗦𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻
+# Week 1: Setup and Initial Development
+# Day 1-2: Project Planning and Initial Setup
+## •	Tasks:
+* o	Define project requirements and architecture.
+* o	Set up an Azure account and familiarize with serverless services like Azure Functions and Logic Apps.
 o	Create a project repository on GitHub or Azure DevOps.
 Day 3-4: Setting Up Azure Functions
 •	Tasks:
